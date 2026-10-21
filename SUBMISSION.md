@@ -12,7 +12,7 @@
 **Video:** [YouTube or Vimeo URL, public, under 3 minutes; draft file is demo/demo.mp4, 2:18]
 
 ## Inspiration
-Observant Jewish households plan their week around times that change every day and differ by city: when to light candles on Friday, the latest time to say Shema, when Shabbos ends, which parsha is read this week, when the next Yom Tov starts. Right now that means checking a calendar on the fridge or opening a phone, which many people avoid or can't do on Shabbos itself. A voice assistant in the kitchen should just know.
+Observant Jewish households plan their week around times that change every day and differ by city: when to light candles on Friday, the latest time to say Shema, when Shabbos ends, which parsha is read this week, when the next Yom Tov starts.
 
 ## What it does
 Shabbos & Zmanim is a self-hosted MCP server that gives Alexa+ (or any MCP client) eight tools:
