@@ -1,0 +1,641 @@
+{
+ "_source": "Coordinates, time zones and GeoNames IDs as returned by Hebcal.com's location data (GeoNames.org, CC BY 4.0), fetched 2026-10-21.",
+ "cities": [
+  {
+   "name": "Lakewood",
+   "title": "Lakewood, New Jersey, USA",
+   "geonameid": 5100280,
+   "lat": 40.09789,
+   "lon": -74.21764,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "New Jersey",
+   "aliases": [
+    "lakewood nj",
+    "lakewood new jersey"
+   ]
+  },
+  {
+   "name": "Brooklyn",
+   "title": "Brooklyn, New York, USA",
+   "geonameid": 5110302,
+   "lat": 40.6501,
+   "lon": -73.94958,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "New York",
+   "aliases": [
+    "boro park",
+    "borough park",
+    "flatbush",
+    "williamsburg",
+    "crown heights",
+    "midwood",
+    "kensington"
+   ]
+  },
+  {
+   "name": "Monsey",
+   "title": "Monsey, New York, USA",
+   "geonameid": 5127315,
+   "lat": 41.11121,
+   "lon": -74.06848,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "New York",
+   "aliases": [
+    "monsey ny"
+   ]
+  },
+  {
+   "name": "New York City",
+   "title": "New York City, New York, USA",
+   "geonameid": 5128581,
+   "lat": 40.71427,
+   "lon": -74.00597,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "New York",
+   "aliases": [
+    "nyc",
+    "manhattan",
+    "new york",
+    "new york city"
+   ]
+  },
+  {
+   "name": "Queens",
+   "title": "Queens, New York, USA",
+   "geonameid": 5133273,
+   "lat": 40.68149,
+   "lon": -73.83652,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "New York",
+   "aliases": []
+  },
+  {
+   "name": "Far Rockaway",
+   "title": "Far Rockaway, New York, USA",
+   "geonameid": 5116917,
+   "lat": 40.60538,
+   "lon": -73.75513,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "New York",
+   "aliases": [
+    "far rockaway",
+    "bayswater"
+   ]
+  },
+  {
+   "name": "Teaneck",
+   "title": "Teaneck, New Jersey, USA",
+   "geonameid": 5105262,
+   "lat": 40.8976,
+   "lon": -74.01597,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "New Jersey",
+   "aliases": []
+  },
+  {
+   "name": "Passaic",
+   "title": "Passaic, New Jersey, USA",
+   "geonameid": 5102443,
+   "lat": 40.85677,
+   "lon": -74.12848,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "New Jersey",
+   "aliases": [
+    "clifton"
+   ]
+  },
+  {
+   "name": "Jackson",
+   "title": "Jackson, New Jersey, USA",
+   "geonameid": 4502434,
+   "lat": 39.7765,
+   "lon": -74.86238,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "New Jersey",
+   "aliases": []
+  },
+  {
+   "name": "Toms River",
+   "title": "Toms River, New Jersey, USA",
+   "geonameid": 4504476,
+   "lat": 39.95373,
+   "lon": -74.19792,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "New Jersey",
+   "aliases": []
+  },
+  {
+   "name": "Kiryas Joel",
+   "title": "Kiryas Joel, New York, USA",
+   "geonameid": 5123533,
+   "lat": 41.34204,
+   "lon": -74.16792,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "New York",
+   "aliases": [
+    "kj",
+    "kiryas yoel"
+   ]
+  },
+  {
+   "name": "Spring Valley",
+   "title": "Spring Valley, New York, USA",
+   "geonameid": 5139301,
+   "lat": 41.11315,
+   "lon": -74.04375,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "New York",
+   "aliases": []
+  },
+  {
+   "name": "Staten Island",
+   "title": "Staten Island, New York, USA",
+   "geonameid": 5139568,
+   "lat": 40.56233,
+   "lon": -74.13986,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "New York",
+   "aliases": []
+  },
+  {
+   "name": "Baltimore",
+   "title": "Baltimore, Maryland, USA",
+   "geonameid": 4347778,
+   "lat": 39.29038,
+   "lon": -76.61219,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "Maryland",
+   "aliases": []
+  },
+  {
+   "name": "Silver Spring",
+   "title": "Silver Spring, Maryland, USA",
+   "geonameid": 4369596,
+   "lat": 38.99067,
+   "lon": -77.02609,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "Maryland",
+   "aliases": [
+    "washington dc",
+    "washington",
+    "dc"
+   ]
+  },
+  {
+   "name": "Philadelphia",
+   "title": "Philadelphia, Pennsylvania, USA",
+   "geonameid": 4560349,
+   "lat": 39.95238,
+   "lon": -75.16362,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "Pennsylvania",
+   "aliases": []
+  },
+  {
+   "name": "Boston",
+   "title": "Boston, Massachusetts, USA",
+   "geonameid": 4930956,
+   "lat": 42.35843,
+   "lon": -71.05977,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "Massachusetts",
+   "aliases": []
+  },
+  {
+   "name": "Chicago",
+   "title": "Chicago, Illinois, USA",
+   "geonameid": 4887398,
+   "lat": 41.85003,
+   "lon": -87.65005,
+   "tzid": "America/Chicago",
+   "cc": "US",
+   "admin1": "Illinois",
+   "aliases": []
+  },
+  {
+   "name": "Cleveland",
+   "title": "Cleveland, Ohio, USA",
+   "geonameid": 5150529,
+   "lat": 41.4995,
+   "lon": -81.69541,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "Ohio",
+   "aliases": []
+  },
+  {
+   "name": "Detroit",
+   "title": "Detroit, Michigan, USA",
+   "geonameid": 4990729,
+   "lat": 42.33143,
+   "lon": -83.04575,
+   "tzid": "America/Detroit",
+   "cc": "US",
+   "admin1": "Michigan",
+   "aliases": []
+  },
+  {
+   "name": "Miami Beach",
+   "title": "Miami Beach, Florida, USA",
+   "geonameid": 4164143,
+   "lat": 25.79065,
+   "lon": -80.13005,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "Florida",
+   "aliases": [
+    "miami",
+    "north miami beach"
+   ]
+  },
+  {
+   "name": "Boca Raton",
+   "title": "Boca Raton, Florida, USA",
+   "geonameid": 4148411,
+   "lat": 26.35869,
+   "lon": -80.0831,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "Florida",
+   "aliases": []
+  },
+  {
+   "name": "Los Angeles",
+   "title": "Los Angeles, California, USA",
+   "geonameid": 5368361,
+   "lat": 34.05223,
+   "lon": -118.24368,
+   "tzid": "America/Los_Angeles",
+   "cc": "US",
+   "admin1": "California",
+   "aliases": [
+    "la",
+    "pico robertson",
+    "hancock park"
+   ]
+  },
+  {
+   "name": "Denver",
+   "title": "Denver, Colorado, USA",
+   "geonameid": 5419384,
+   "lat": 39.73915,
+   "lon": -104.9847,
+   "tzid": "America/Denver",
+   "cc": "US",
+   "admin1": "Colorado",
+   "aliases": []
+  },
+  {
+   "name": "Dallas",
+   "title": "Dallas, Texas, USA",
+   "geonameid": 4684888,
+   "lat": 32.78306,
+   "lon": -96.80667,
+   "tzid": "America/Chicago",
+   "cc": "US",
+   "admin1": "Texas",
+   "aliases": []
+  },
+  {
+   "name": "Houston",
+   "title": "Houston, Texas, USA",
+   "geonameid": 4699066,
+   "lat": 29.76328,
+   "lon": -95.36327,
+   "tzid": "America/Chicago",
+   "cc": "US",
+   "admin1": "Texas",
+   "aliases": []
+  },
+  {
+   "name": "Atlanta",
+   "title": "Atlanta, Georgia, USA",
+   "geonameid": 4180439,
+   "lat": 33.749,
+   "lon": -84.38798,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "Georgia",
+   "aliases": []
+  },
+  {
+   "name": "Phoenix",
+   "title": "Phoenix, Arizona, USA",
+   "geonameid": 5308655,
+   "lat": 33.44838,
+   "lon": -112.07404,
+   "tzid": "America/Phoenix",
+   "cc": "US",
+   "admin1": "Arizona",
+   "aliases": []
+  },
+  {
+   "name": "Seattle",
+   "title": "Seattle, Washington, USA",
+   "geonameid": 5809844,
+   "lat": 47.60621,
+   "lon": -122.33207,
+   "tzid": "America/Los_Angeles",
+   "cc": "US",
+   "admin1": "Washington",
+   "aliases": []
+  },
+  {
+   "name": "San Francisco",
+   "title": "San Francisco, California, USA",
+   "geonameid": 5391959,
+   "lat": 37.77493,
+   "lon": -122.41942,
+   "tzid": "America/Los_Angeles",
+   "cc": "US",
+   "admin1": "California",
+   "aliases": []
+  },
+  {
+   "name": "St. Louis",
+   "title": "St. Louis, Missouri, USA",
+   "geonameid": 4407066,
+   "lat": 38.62727,
+   "lon": -90.19789,
+   "tzid": "America/Chicago",
+   "cc": "US",
+   "admin1": "Missouri",
+   "aliases": [
+    "saint louis",
+    "st louis"
+   ]
+  },
+  {
+   "name": "Toronto",
+   "title": "Toronto, Ontario, Canada",
+   "geonameid": 6167865,
+   "lat": 43.70643,
+   "lon": -79.39864,
+   "tzid": "America/Toronto",
+   "cc": "CA",
+   "admin1": "Ontario",
+   "aliases": []
+  },
+  {
+   "name": "Montréal",
+   "title": "Montréal, Quebec, Canada",
+   "geonameid": 6077243,
+   "lat": 45.50884,
+   "lon": -73.58781,
+   "tzid": "America/Toronto",
+   "cc": "CA",
+   "admin1": "Quebec",
+   "aliases": [
+    "montreal"
+   ]
+  },
+  {
+   "name": "London",
+   "title": "London, England, UK",
+   "geonameid": 2643743,
+   "lat": 51.50853,
+   "lon": -0.12574,
+   "tzid": "Europe/London",
+   "cc": "GB",
+   "admin1": "England",
+   "aliases": []
+  },
+  {
+   "name": "Manchester",
+   "title": "Manchester, England, UK",
+   "geonameid": 2643123,
+   "lat": 53.48095,
+   "lon": -2.23743,
+   "tzid": "Europe/London",
+   "cc": "GB",
+   "admin1": "England",
+   "aliases": []
+  },
+  {
+   "name": "Antwerp",
+   "title": "Antwerp, Flanders, Belgium",
+   "geonameid": 2803138,
+   "lat": 51.22047,
+   "lon": 4.40026,
+   "tzid": "Europe/Brussels",
+   "cc": "BE",
+   "admin1": "Flanders",
+   "aliases": []
+  },
+  {
+   "name": "Paris",
+   "title": "Paris, Ile-de-France, France",
+   "geonameid": 2988507,
+   "lat": 48.85341,
+   "lon": 2.3488,
+   "tzid": "Europe/Paris",
+   "cc": "FR",
+   "admin1": "Ile-de-France",
+   "aliases": []
+  },
+  {
+   "name": "Jerusalem",
+   "title": "Jerusalem, Israel",
+   "geonameid": 281184,
+   "lat": 31.76904,
+   "lon": 35.21633,
+   "tzid": "Asia/Jerusalem",
+   "cc": "IL",
+   "admin1": "Jerusalem",
+   "aliases": [
+    "yerushalayim",
+    "yerushalaim",
+    "jlem"
+   ]
+  },
+  {
+   "name": "Bnei Brak",
+   "title": "Bnei Brak, Israel",
+   "geonameid": 295514,
+   "lat": 32.08074,
+   "lon": 34.8338,
+   "tzid": "Asia/Jerusalem",
+   "cc": "IL",
+   "admin1": "Tel Aviv",
+   "aliases": [
+    "bene beraq",
+    "bnei brak"
+   ]
+  },
+  {
+   "name": "Tel Aviv",
+   "title": "Tel Aviv, Israel",
+   "geonameid": 293397,
+   "lat": 32.08088,
+   "lon": 34.78057,
+   "tzid": "Asia/Jerusalem",
+   "cc": "IL",
+   "admin1": "Tel Aviv",
+   "aliases": [
+    "tel aviv-yafo",
+    "tel aviv yafo"
+   ]
+  },
+  {
+   "name": "Haifa",
+   "title": "Haifa, Israel",
+   "geonameid": 294801,
+   "lat": 32.81303,
+   "lon": 34.99928,
+   "tzid": "Asia/Jerusalem",
+   "cc": "IL",
+   "admin1": "Haifa",
+   "aliases": []
+  },
+  {
+   "name": "Safed",
+   "title": "Safed, Israel",
+   "geonameid": 293100,
+   "lat": 32.96465,
+   "lon": 35.496,
+   "tzid": "Asia/Jerusalem",
+   "cc": "IL",
+   "admin1": "Northern District",
+   "aliases": [
+    "tzfat",
+    "tsfat",
+    "zefat"
+   ]
+  },
+  {
+   "name": "Johannesburg",
+   "title": "Johannesburg, Gauteng, South Africa",
+   "geonameid": 993800,
+   "lat": -26.20227,
+   "lon": 28.04363,
+   "tzid": "Africa/Johannesburg",
+   "cc": "ZA",
+   "admin1": "Gauteng",
+   "aliases": []
+  },
+  {
+   "name": "Melbourne",
+   "title": "Melbourne, Victoria, Australia",
+   "geonameid": 2158177,
+   "lat": -37.814,
+   "lon": 144.96332,
+   "tzid": "Australia/Melbourne",
+   "cc": "AU",
+   "admin1": "Victoria",
+   "aliases": []
+  },
+  {
+   "name": "Sydney",
+   "title": "Sydney, New South Wales, Australia",
+   "geonameid": 2147714,
+   "lat": -33.86785,
+   "lon": 151.20732,
+   "tzid": "Australia/Sydney",
+   "cc": "AU",
+   "admin1": "New South Wales",
+   "aliases": []
+  },
+  {
+   "name": "Buenos Aires",
+   "title": "Buenos Aires, Argentina",
+   "geonameid": 3435910,
+   "lat": -34.61315,
+   "lon": -58.37723,
+   "tzid": "America/Argentina/Buenos_Aires",
+   "cc": "AR",
+   "admin1": "Buenos Aires F.D.",
+   "aliases": []
+  },
+  {
+   "name": "Mexico City",
+   "title": "Mexico City, Mexico",
+   "geonameid": 3530597,
+   "lat": 19.42847,
+   "lon": -99.12766,
+   "tzid": "America/Mexico_City",
+   "cc": "MX",
+   "admin1": "Mexico City",
+   "aliases": []
+  },
+  {
+   "name": "Las Vegas",
+   "title": "Las Vegas, Nevada, USA",
+   "geonameid": 5506956,
+   "lat": 36.17497,
+   "lon": -115.13722,
+   "tzid": "America/Los_Angeles",
+   "cc": "US",
+   "admin1": "Nevada",
+   "aliases": []
+  },
+  {
+   "name": "Scranton",
+   "title": "Scranton, Pennsylvania, USA",
+   "geonameid": 5211303,
+   "lat": 41.40916,
+   "lon": -75.6649,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "Pennsylvania",
+   "aliases": []
+  },
+  {
+   "name": "Cincinnati",
+   "title": "Cincinnati, Ohio, USA",
+   "geonameid": 4508722,
+   "lat": 39.12711,
+   "lon": -84.51439,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "Ohio",
+   "aliases": []
+  },
+  {
+   "name": "Woodmere",
+   "title": "Woodmere, New York, USA",
+   "geonameid": 5145028,
+   "lat": 40.63205,
+   "lon": -73.71263,
+   "tzid": "America/New_York",
+   "cc": "US",
+   "admin1": "New York",
+   "aliases": [
+    "five towns",
+    "5 towns",
+    "cedarhurst",
+    "lawrence"
+   ]
+  },
+  {
+   "name": "Bet Shemesh",
+   "title": "Bet Shemesh, Israel",
+   "geonameid": 295432,
+   "lat": 31.73072,
+   "lon": 34.99293,
+   "tzid": "Asia/Jerusalem",
+   "cc": "IL",
+   "admin1": "Jerusalem",
+   "aliases": [
+    "beit shemesh",
+    "ramat beit shemesh"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2042 @@
+{
+"https://www.hebcal.com/converter?cfg=json&g2h=1&gd=21&gm=10&gy=2026": {
+"json": {
+"afterSunset": false,
+"events": [
+"Parashat Lech-Lecha"
+],
+"gd": 21,
+"gm": 10,
+"gy": 2026,
+"hd": 10,
+"heDateParts": {
+"d": "י׳",
+"m": "חשון",
+"y": "תשפ״ז"
+},
+"hebrew": "י׳ בְּחֶשְׁוָן תשפ״ז",
+"hm": "Cheshvan",
+"hy": 5787
+},
+"status": 200
+},
+"https://www.hebcal.com/converter?cfg=json&h2g=1&hd=25&hm=Kislev&hy=5787": {
+"json": {
+"afterSunset": false,
+"events": [
+"Molad Tevet: Wednesday, 11:11am and 4 chalakim",
+"Shabbat Mevarchim Chodesh Tevet",
+"Chanukah day 1",
+"Parashat Vayeshev"
+],
+"gd": 5,
+"gm": 12,
+"gy": 2026,
+"hd": 25,
+"heDateParts": {
+"d": "כ״ה",
+"m": "כסלו",
+"y": "תשפ״ז"
+},
+"hebrew": "כ״ה בְּכִסְלֵו תשפ״ז",
+"hm": "Kislev",
+"hy": 5787
+},
+"status": 200
+},
+"https://www.hebcal.com/hebcal?F=on&cfg=json&end=2026-10-21&lg=a&start=2026-10-21&v=1": {
+"json": {
+"date": "2026-10-21T01:09:19.788Z",
+"items": [
+{
+"category": "dafyomi",
+"date": "2026-10-21",
+"hdate": "10 Cheshvan 5787",
+"hebrew": "בכורות דף ל״ג",
+"link": "https://www.sefaria.org/Bekhorot.33a?lang=bi&utm_source=hebcal.com&utm_medium=api",
+"title": "Bechoros 33",
+"title_orig": "Bechorot 33"
+}
+],
+"location": {
+"geo": "none"
+},
+"range": {
+"end": "2026-10-21",
+"start": "2026-10-21"
+},
+"title": "Hebcal Diaspora October 2026",
+"version": "6.14.6-4.2.2"
+},
+"status": 200
+},
+"https://www.hebcal.com/hebcal?M=on&b=18&c=on&cfg=json&end=2026-10-31&geonameid=5100280&i=off&lg=a&maj=on&s=on&start=2026-10-20&v=1": {
+"json": {
+"date": "2026-10-21T01:09:18.023Z",
+"items": [
+{
+"category": "candles",
+"date": "2026-10-23T17:47:00-04:00",
+"hebrew": "הדלקת נרות",
+"memo": "Parshas Lech-Lecha",
+"title": "Candle lighting: 5:47pm",
+"title_orig": "Candle lighting"
+},
+{
+"category": "parashat",
+"date": "2026-10-24",
+"hdate": "13 Cheshvan 5787",
+"hebrew": "פרשת לך־לך",
+"leyning": {
+"1": "Genesis 12:1-12:13",
+"2": "Genesis 12:14-13:4",
+"3": "Genesis 13:5-13:18",
+"4": "Genesis 14:1-14:20",
+"5": "Genesis 14:21-15:6",
+"6": "Genesis 15:7-17:6",
+"7": "Genesis 17:7-17:27",
+"haftarah": "Isaiah 40:27-41:16",
+"maftir": "Genesis 17:24-17:27",
+"torah": "Genesis 12:1-17:27",
+"triennial": {
+"1": "Genesis 14:1-14:9",
+"2": "Genesis 14:10-14:16",
+"3": "Genesis 14:17-14:20",
+"4": "Genesis 14:21-14:24",
+"5": "Genesis 15:1-15:6",
+"6": "Genesis 15:7-15:16",
+"7": "Genesis 15:17-15:21",
+"maftir": "Genesis 15:17-15:21"
+}
+},
+"link": "https://hebcal.com/s/5787/3?us=js&um=api",
+"title": "Parshas Lech-Lecha",
+"title_orig": "Parashat Lech-Lecha"
+},
+{
+"category": "havdalah",
+"date": "2026-10-24T18:45:00-04:00",
+"hebrew": "הבדלה",
+"title": "Havdalah: 6:45pm",
+"title_orig": "Havdalah"
+},
+{
+"category": "candles",
+"date": "2026-10-30T17:38:00-04:00",
+"hebrew": "הדלקת נרות",
+"memo": "Parshas Vayera",
+"title": "Candle lighting: 5:38pm",
+"title_orig": "Candle lighting"
+},
+{
+"category": "parashat",
+"date": "2026-10-31",
+"hdate": "20 Cheshvan 5787",
+"hebrew": "פרשת וירא",
+"leyning": {
+"1": "Genesis 18:1-18:14",
+"2": "Genesis 18:15-18:33",
+"3": "Genesis 19:1-19:20",
+"4": "Genesis 19:21-21:4",
+"5": "Genesis 21:5-21:21",
+"6": "Genesis 21:22-21:34",
+"7": "Genesis 22:1-22:24",
+"haftarah": "II Kings 4:1-37",
+"haftarah_chabad": "II Kings 4:1-37",
+"haftarah_sephardic": "II Kings 4:1-23",
+"maftir": "Genesis 22:20-22:24",
+"torah": "Genesis 18:1-22:24",
+"triennial": {
+"1": "Genesis 19:1-19:11",
+"2": "Genesis 19:12-19:20",
+"3": "Genesis 19:21-19:29",
+"4": "Genesis 19:30-19:38",
+"5": "Genesis 20:1-20:8",
+"6": "Genesis 20:9-20:14",
+"7": "Genesis 20:15-20:18",
+"maftir": "Genesis 20:15-20:18"
+}
+},
+"link": "https://hebcal.com/s/5787/4?us=js&um=api",
+"title": "Parshas Vayera",
+"title_orig": "Parashat Vayera"
+},
+{
+"category": "havdalah",
+"date": "2026-10-31T18:37:00-04:00",
+"hebrew": "הבדלה",
+"title": "Havdalah: 6:37pm",
+"title_orig": "Havdalah"
+}
+],
+"location": {
+"admin1": "New Jersey",
+"asciiname": "Lakewood",
+"cc": "US",
+"city": "Lakewood",
+"country": "United States",
+"elevation": 23,
+"geo": "geoname",
+"geonameid": 5100280,
+"latitude": 40.09789,
+"longitude": -74.21764,
+"title": "Lakewood, New Jersey, USA",
+"tzid": "America/New_York"
+},
+"range": {
+"end": "2026-10-31",
+"start": "2026-10-23"
+},
+"title": "Hebcal Lakewood October 2026",
+"version": "6.14.6-4.2.2"
+},
+"status": 200
+},
+"https://www.hebcal.com/hebcal?M=on&b=18&c=on&cfg=json&end=2027-04-30&geonameid=5110302&i=off&lg=a&maj=on&s=on&start=2027-04-19&v=1": {
+"json": {
+"date": "2026-10-21T01:05:31.250Z",
+"items": [
+{
+"category": "zmanim",
+"date": "2027-04-21T10:39:00-04:00",
+"hebrew": "סוף זמן אכילת חמץ",
+"memo": "Latest time of day to eat chametz on the day before Pesach",
+"subcat": "achilasChametz",
+"title": "Finish eating chametz"
+},
+{
+"category": "zmanim",
+"date": "2027-04-21T11:47:00-04:00",
+"hebrew": "בעור חמץ",
+"memo": "Latest time of day to sell and burn chametz before Pesach",
+"subcat": "biurChametz",
+"title": "Biur Chametz"
+},
+{
+"category": "holiday",
+"date": "2027-04-21",
+"hdate": "14 Nisan 5787",
+"hebrew": "ערב פסח",
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Erev Pesach"
+},
+{
+"category": "candles",
+"date": "2027-04-21T19:23:00-04:00",
+"hebrew": "הדלקת נרות",
+"memo": "Erev Pesach",
+"title": "Candle lighting: 7:23pm",
+"title_orig": "Candle lighting"
+},
+{
+"category": "holiday",
+"date": "2027-04-22",
+"hdate": "15 Nisan 5787",
+"hebrew": "פסח א׳",
+"leyning": {
+"1": "Exodus 12:21-12:24",
+"2": "Exodus 12:25-12:28",
+"3": "Exodus 12:29-12:36",
+"4": "Exodus 12:37-12:42",
+"5": "Exodus 12:43-12:51",
+"haftarah": "Joshua 3:5-7, 5:2-6:1, 6:27",
+"haftarah_sephardic": "Joshua 5:2-6:1, 6:27",
+"maftir": "Numbers 28:16-28:25",
+"torah": "Exodus 12:21-51; Numbers 28:16-25"
+},
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach I",
+"yomtov": true
+},
+{
+"category": "candles",
+"date": "2027-04-22T20:26:00-04:00",
+"hebrew": "הדלקת נרות",
+"memo": "Pesach I",
+"title": "Candle lighting: 8:26pm",
+"title_orig": "Candle lighting"
+},
+{
+"category": "holiday",
+"date": "2027-04-23",
+"hdate": "16 Nisan 5787",
+"hebrew": "פסח ב׳",
+"leyning": {
+"1": "Leviticus 22:26-23:3",
+"2": "Leviticus 23:4-23:14",
+"3": "Leviticus 23:15-23:22",
+"4": "Leviticus 23:23-23:32",
+"5": "Leviticus 23:33-23:44",
+"haftarah": "II Kings 23:1-9, 23:21-25",
+"maftir": "Numbers 28:16-28:25",
+"torah": "Leviticus 22:26-23:44; Numbers 28:16-25"
+},
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach II",
+"yomtov": true
+},
+{
+"category": "candles",
+"date": "2027-04-23T19:25:00-04:00",
+"hebrew": "הדלקת נרות",
+"memo": "Pesach II",
+"title": "Candle lighting: 7:25pm",
+"title_orig": "Candle lighting"
+},
+{
+"category": "holiday",
+"date": "2027-04-24",
+"hdate": "17 Nisan 5787",
+"hebrew": "פסח ג׳ (חוה״מ)",
+"leyning": {
+"1": "Exodus 33:12-33:16",
+"2": "Exodus 33:17-33:19",
+"3": "Exodus 33:20-33:23",
+"4": "Exodus 34:1-34:3",
+"5": "Exodus 34:4-34:10",
+"6": "Exodus 34:11-34:17",
+"7": "Exodus 34:18-34:26",
+"haftarah": "Ezekiel 37:1-14",
+"maftir": "Numbers 28:19-28:25",
+"torah": "Exodus 33:12-34:26; Numbers 28:19-25; Song of Songs 1:1-8:14"
+},
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach III (CH’’M)",
+"title_orig": "Pesach III (CH''M)"
+},
+{
+"category": "havdalah",
+"date": "2027-04-24T20:28:00-04:00",
+"hebrew": "הבדלה",
+"title": "Havdalah: 8:28pm",
+"title_orig": "Havdalah"
+},
+{
+"category": "holiday",
+"date": "2027-04-25",
+"hdate": "18 Nisan 5787",
+"hebrew": "פסח ד׳ (חוה״מ)",
+"leyning": {
+"1": "Exodus 13:1-13:4",
+"2": "Exodus 13:5-13:10",
+"3": "Exodus 13:11-13:16",
+"4": "Numbers 28:19-28:25",
+"torah": "Exodus 13:1-16; Numbers 28:19-25"
+},
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach IV (CH’’M)",
+"title_orig": "Pesach IV (CH''M)"
+},
+{
+"category": "holiday",
+"date": "2027-04-26",
+"hdate": "19 Nisan 5787",
+"hebrew": "פסח ה׳ (חוה״מ)",
+"leyning": {
+"1": "Exodus 22:24-22:26",
+"2": "Exodus 22:27-23:5",
+"3": "Exodus 23:6-23:19",
+"4": "Numbers 28:19-28:25",
+"torah": "Exodus 22:24-23:19; Numbers 28:19-25"
+},
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach V (CH’’M)",
+"title_orig": "Pesach V (CH''M)"
+},
+{
+"category": "holiday",
+"date": "2027-04-27",
+"hdate": "20 Nisan 5787",
+"hebrew": "פסח ו׳ (חוה״מ)",
+"leyning": {
+"1": "Numbers 9:1-9:5",
+"2": "Numbers 9:6-9:8",
+"3": "Numbers 9:9-9:14",
+"4": "Numbers 28:19-28:25",
+"torah": "Numbers 9:1-14, 28:19-25"
+},
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach VI (CH’’M)",
+"title_orig": "Pesach VI (CH''M)"
+},
+{
+"category": "candles",
+"date": "2027-04-27T19:29:00-04:00",
+"hebrew": "הדלקת נרות",
+"memo": "Pesach VI (CH’’M)",
+"title": "Candle lighting: 7:29pm",
+"title_orig": "Candle lighting"
+},
+{
+"category": "holiday",
+"date": "2027-04-28",
+"hdate": "21 Nisan 5787",
+"hebrew": "פסח ז׳",
+"leyning": {
+"1": "Exodus 13:17-13:22",
+"2": "Exodus 14:1-14:8",
+"3": "Exodus 14:9-14:14",
+"4": "Exodus 14:15-14:25",
+"5": "Exodus 14:26-15:26",
+"haftarah": "II Samuel 22:1-51",
+"maftir": "Numbers 28:19-28:25",
+"torah": "Exodus 13:17-15:26; Numbers 28:19-25"
+},
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach VII",
+"yomtov": true
+},
+{
+"category": "candles",
+"date": "2027-04-28T20:33:00-04:00",
+"hebrew": "הדלקת נרות",
+"memo": "Pesach VII",
+"title": "Candle lighting: 8:33pm",
+"title_orig": "Candle lighting"
+},
+{
+"category": "holiday",
+"date": "2027-04-29",
+"hdate": "22 Nisan 5787",
+"hebrew": "פסח ח׳",
+"leyning": {
+"1": "Deuteronomy 15:19-15:23",
+"2": "Deuteronomy 16:1-16:3",
+"3": "Deuteronomy 16:4-16:8",
+"4": "Deuteronomy 16:9-16:12",
+"5": "Deuteronomy 16:13-16:17",
+"haftarah": "Isaiah 10:32-12:6",
+"maftir": "Numbers 28:19-28:25",
+"torah": "Deuteronomy 15:19-16:17; Numbers 28:19-25"
+},
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach VIII",
+"yomtov": true
+},
+{
+"category": "havdalah",
+"date": "2027-04-29T20:34:00-04:00",
+"hebrew": "הבדלה",
+"memo": "Pesach VIII",
+"title": "Havdalah: 8:34pm",
+"title_orig": "Havdalah"
+},
+{
+"category": "candles",
+"date": "2027-04-30T19:32:00-04:00",
+"hebrew": "הדלקת נרות",
+"memo": "Parshas Achrei Mos",
+"title": "Candle lighting: 7:32pm",
+"title_orig": "Candle lighting"
+}
+],
+"location": {
+"admin1": "New York",
+"asciiname": "Brooklyn",
+"cc": "US",
+"city": "Brooklyn",
+"country": "United States",
+"elevation": 18,
+"geo": "geoname",
+"geonameid": 5110302,
+"latitude": 40.6501,
+"longitude": -73.94958,
+"title": "Brooklyn, New York, USA",
+"tzid": "America/New_York"
+},
+"range": {
+"end": "2027-04-30",
+"start": "2027-04-21"
+},
+"title": "Hebcal Brooklyn April 2027",
+"version": "6.14.6-4.2.2"
+},
+"status": 200
+},
+"https://www.hebcal.com/hebcal?M=on&b=20&c=on&cfg=json&end=2026-10-31&geonameid=5110302&i=off&lg=a&maj=on&s=on&start=2026-10-20&v=1": {
+"json": {
+"date": "2026-10-21T01:09:20.430Z",
+"items": [
+{
+"category": "candles",
+"date": "2026-10-23T17:43:00-04:00",
+"hebrew": "הדלקת נרות",
+"memo": "Parshas Lech-Lecha",
+"title": "Candle lighting: 5:43pm",
+"title_orig": "Candle lighting"
+},
+{
+"category": "parashat",
+"date": "2026-10-24",
+"hdate": "13 Cheshvan 5787",
+"hebrew": "פרשת לך־לך",
+"leyning": {
+"1": "Genesis 12:1-12:13",
+"2": "Genesis 12:14-13:4",
+"3": "Genesis 13:5-13:18",
+"4": "Genesis 14:1-14:20",
+"5": "Genesis 14:21-15:6",
+"6": "Genesis 15:7-17:6",
+"7": "Genesis 17:7-17:27",
+"haftarah": "Isaiah 40:27-41:16",
+"maftir": "Genesis 17:24-17:27",
+"torah": "Genesis 12:1-17:27",
+"triennial": {
+"1": "Genesis 14:1-14:9",
+"2": "Genesis 14:10-14:16",
+"3": "Genesis 14:17-14:20",
+"4": "Genesis 14:21-14:24",
+"5": "Genesis 15:1-15:6",
+"6": "Genesis 15:7-15:16",
+"7": "Genesis 15:17-15:21",
+"maftir": "Genesis 15:17-15:21"
+}
+},
+"link": "https://hebcal.com/s/5787/3?us=js&um=api",
+"title": "Parshas Lech-Lecha",
+"title_orig": "Parashat Lech-Lecha"
+},
+{
+"category": "havdalah",
+"date": "2026-10-24T18:44:00-04:00",
+"hebrew": "הבדלה",
+"title": "Havdalah: 6:44pm",
+"title_orig": "Havdalah"
+},
+{
+"category": "candles",
+"date": "2026-10-30T17:34:00-04:00",
+"hebrew": "הדלקת נרות",
+"memo": "Parshas Vayera",
+"title": "Candle lighting: 5:34pm",
+"title_orig": "Candle lighting"
+},
+{
+"category": "parashat",
+"date": "2026-10-31",
+"hdate": "20 Cheshvan 5787",
+"hebrew": "פרשת וירא",
+"leyning": {
+"1": "Genesis 18:1-18:14",
+"2": "Genesis 18:15-18:33",
+"3": "Genesis 19:1-19:20",
+"4": "Genesis 19:21-21:4",
+"5": "Genesis 21:5-21:21",
+"6": "Genesis 21:22-21:34",
+"7": "Genesis 22:1-22:24",
+"haftarah": "II Kings 4:1-37",
+"haftarah_chabad": "II Kings 4:1-37",
+"haftarah_sephardic": "II Kings 4:1-23",
+"maftir": "Genesis 22:20-22:24",
+"torah": "Genesis 18:1-22:24",
+"triennial": {
+"1": "Genesis 19:1-19:11",
+"2": "Genesis 19:12-19:20",
+"3": "Genesis 19:21-19:29",
+"4": "Genesis 19:30-19:38",
+"5": "Genesis 20:1-20:8",
+"6": "Genesis 20:9-20:14",
+"7": "Genesis 20:15-20:18",
+"maftir": "Genesis 20:15-20:18"
+}
+},
+"link": "https://hebcal.com/s/5787/4?us=js&um=api",
+"title": "Parshas Vayera",
+"title_orig": "Parashat Vayera"
+},
+{
+"category": "havdalah",
+"date": "2026-10-31T18:35:00-04:00",
+"hebrew": "הבדלה",
+"title": "Havdalah: 6:35pm",
+"title_orig": "Havdalah"
+}
+],
+"location": {
+"admin1": "New York",
+"asciiname": "Brooklyn",
+"cc": "US",
+"city": "Brooklyn",
+"country": "United States",
+"elevation": 18,
+"geo": "geoname",
+"geonameid": 5110302,
+"latitude": 40.6501,
+"longitude": -73.94958,
+"title": "Brooklyn, New York, USA",
+"tzid": "America/New_York"
+},
+"range": {
+"end": "2026-10-31",
+"start": "2026-10-23"
+},
+"title": "Hebcal Brooklyn October 2026",
+"version": "6.14.6-4.2.2"
+},
+"status": 200
+},
+"https://www.hebcal.com/hebcal?M=on&b=40&c=on&cfg=json&end=2026-10-31&geonameid=281184&i=on&lg=a&maj=on&s=on&start=2026-10-20&v=1": {
+"json": {
+"date": "2026-10-21T01:05:29.799Z",
+"items": [
+{
+"category": "candles",
+"date": "2026-10-23T17:18:00+03:00",
+"hebrew": "הדלקת נרות",
+"memo": "Parshas Lech-Lecha",
+"title": "Candle lighting: 17:18",
+"title_orig": "Candle lighting"
+},
+{
+"category": "parashat",
+"date": "2026-10-24",
+"hdate": "13 Cheshvan 5787",
+"hebrew": "פרשת לך־לך",
+"leyning": {
+"1": "Genesis 12:1-12:13",
+"2": "Genesis 12:14-13:4",
+"3": "Genesis 13:5-13:18",
+"4": "Genesis 14:1-14:20",
+"5": "Genesis 14:21-15:6",
+"6": "Genesis 15:7-17:6",
+"7": "Genesis 17:7-17:27",
+"haftarah": "Isaiah 40:27-41:16",
+"maftir": "Genesis 17:24-17:27",
+"torah": "Genesis 12:1-17:27",
+"triennial": {
+"1": "Genesis 14:1-14:9",
+"2": "Genesis 14:10-14:16",
+"3": "Genesis 14:17-14:20",
+"4": "Genesis 14:21-14:24",
+"5": "Genesis 15:1-15:6",
+"6": "Genesis 15:7-15:16",
+"7": "Genesis 15:17-15:21",
+"maftir": "Genesis 15:17-15:21"
+}
+},
+"link": "https://hebcal.com/s/5787i/3?us=js&um=api",
+"title": "Parshas Lech-Lecha",
+"title_orig": "Parashat Lech-Lecha"
+},
+{
+"category": "havdalah",
+"date": "2026-10-24T18:34:00+03:00",
+"hebrew": "הבדלה",
+"title": "Havdalah: 18:34",
+"title_orig": "Havdalah"
+},
+{
+"category": "candles",
+"date": "2026-10-30T16:11:00+02:00",
+"hebrew": "הדלקת נרות",
+"memo": "Parshas Vayera",
+"title": "Candle lighting: 16:11",
+"title_orig": "Candle lighting"
+},
+{
+"category": "parashat",
+"date": "2026-10-31",
+"hdate": "20 Cheshvan 5787",
+"hebrew": "פרשת וירא",
+"leyning": {
+"1": "Genesis 18:1-18:14",
+"2": "Genesis 18:15-18:33",
+"3": "Genesis 19:1-19:20",
+"4": "Genesis 19:21-21:4",
+"5": "Genesis 21:5-21:21",
+"6": "Genesis 21:22-21:34",
+"7": "Genesis 22:1-22:24",
+"haftarah": "II Kings 4:1-37",
+"haftarah_chabad": "II Kings 4:1-37",
+"haftarah_sephardic": "II Kings 4:1-23",
+"maftir": "Genesis 22:20-22:24",
+"torah": "Genesis 18:1-22:24",
+"triennial": {
+"1": "Genesis 19:1-19:11",
+"2": "Genesis 19:12-19:20",
+"3": "Genesis 19:21-19:29",
+"4": "Genesis 19:30-19:38",
+"5": "Genesis 20:1-20:8",
+"6": "Genesis 20:9-20:14",
+"7": "Genesis 20:15-20:18",
+"maftir": "Genesis 20:15-20:18"
+}
+},
+"link": "https://hebcal.com/s/5787i/4?us=js&um=api",
+"title": "Parshas Vayera",
+"title_orig": "Parashat Vayera"
+},
+{
+"category": "havdalah",
+"date": "2026-10-31T17:28:00+02:00",
+"hebrew": "הבדלה",
+"title": "Havdalah: 17:28",
+"title_orig": "Havdalah"
+}
+],
+"location": {
+"admin1": "Jerusalem",
+"asciiname": "Jerusalem",
+"cc": "IL",
+"city": "Jerusalem",
+"country": "Israel",
+"elevation": 786,
+"geo": "geoname",
+"geonameid": 281184,
+"latitude": 31.76904,
+"longitude": 35.21633,
+"title": "Jerusalem, Israel",
+"tzid": "Asia/Jerusalem"
+},
+"range": {
+"end": "2026-10-31",
+"start": "2026-10-23"
+},
+"title": "Hebcal Jerusalem October 2026",
+"version": "6.14.6-4.2.2"
+},
+"status": 200
+},
+"https://www.hebcal.com/hebcal?b=20&c=on&cfg=json&end=2026-10-31&geonameid=5110302&i=off&lg=a&m=72&maj=on&s=on&start=2026-10-20&v=1": {
+"json": {
+"date": "2026-10-21T01:09:18.578Z",
+"items": [
+{
+"category": "candles",
+"date": "2026-10-23T17:43:00-04:00",
+"hebrew": "הדלקת נרות",
+"memo": "Parshas Lech-Lecha",
+"title": "Candle lighting: 5:43pm",
+"title_orig": "Candle lighting"
+},
+{
+"category": "parashat",
+"date": "2026-10-24",
+"hdate": "13 Cheshvan 5787",
+"hebrew": "פרשת לך־לך",
+"leyning": {
+"1": "Genesis 12:1-12:13",
+"2": "Genesis 12:14-13:4",
+"3": "Genesis 13:5-13:18",
+"4": "Genesis 14:1-14:20",
+"5": "Genesis 14:21-15:6",
+"6": "Genesis 15:7-17:6",
+"7": "Genesis 17:7-17:27",
+"haftarah": "Isaiah 40:27-41:16",
+"maftir": "Genesis 17:24-17:27",
+"torah": "Genesis 12:1-17:27",
+"triennial": {
+"1": "Genesis 14:1-14:9",
+"2": "Genesis 14:10-14:16",
+"3": "Genesis 14:17-14:20",
+"4": "Genesis 14:21-14:24",
+"5": "Genesis 15:1-15:6",
+"6": "Genesis 15:7-15:16",
+"7": "Genesis 15:17-15:21",
+"maftir": "Genesis 15:17-15:21"
+}
+},
+"link": "https://hebcal.com/s/5787/3?us=js&um=api",
+"title": "Parshas Lech-Lecha",
+"title_orig": "Parashat Lech-Lecha"
+},
+{
+"category": "havdalah",
+"date": "2026-10-24T19:14:00-04:00",
+"hebrew": "הבדלה (72 דקות)",
+"title": "Havdalah (72 min): 7:14pm",
+"title_orig": "Havdalah"
+},
+{
+"category": "candles",
+"date": "2026-10-30T17:34:00-04:00",
+"hebrew": "הדלקת נרות",
+"memo": "Parshas Vayera",
+"title": "Candle lighting: 5:34pm",
+"title_orig": "Candle lighting"
+},
+{
+"category": "parashat",
+"date": "2026-10-31",
+"hdate": "20 Cheshvan 5787",
+"hebrew": "פרשת וירא",
+"leyning": {
+"1": "Genesis 18:1-18:14",
+"2": "Genesis 18:15-18:33",
+"3": "Genesis 19:1-19:20",
+"4": "Genesis 19:21-21:4",
+"5": "Genesis 21:5-21:21",
+"6": "Genesis 21:22-21:34",
+"7": "Genesis 22:1-22:24",
+"haftarah": "II Kings 4:1-37",
+"haftarah_chabad": "II Kings 4:1-37",
+"haftarah_sephardic": "II Kings 4:1-23",
+"maftir": "Genesis 22:20-22:24",
+"torah": "Genesis 18:1-22:24",
+"triennial": {
+"1": "Genesis 19:1-19:11",
+"2": "Genesis 19:12-19:20",
+"3": "Genesis 19:21-19:29",
+"4": "Genesis 19:30-19:38",
+"5": "Genesis 20:1-20:8",
+"6": "Genesis 20:9-20:14",
+"7": "Genesis 20:15-20:18",
+"maftir": "Genesis 20:15-20:18"
+}
+},
+"link": "https://hebcal.com/s/5787/4?us=js&um=api",
+"title": "Parshas Vayera",
+"title_orig": "Parashat Vayera"
+},
+{
+"category": "havdalah",
+"date": "2026-10-31T19:05:00-04:00",
+"hebrew": "הבדלה (72 דקות)",
+"title": "Havdalah (72 min): 7:05pm",
+"title_orig": "Havdalah"
+}
+],
+"location": {
+"admin1": "New York",
+"asciiname": "Brooklyn",
+"cc": "US",
+"city": "Brooklyn",
+"country": "United States",
+"elevation": 18,
+"geo": "geoname",
+"geonameid": 5110302,
+"latitude": 40.6501,
+"longitude": -73.94958,
+"title": "Brooklyn, New York, USA",
+"tzid": "America/New_York"
+},
+"range": {
+"end": "2026-10-31",
+"start": "2026-10-23"
+},
+"title": "Hebcal Brooklyn October 2026",
+"version": "6.14.6-4.2.2"
+},
+"status": 200
+},
+"https://www.hebcal.com/hebcal?cfg=json&end=2022-04-23&i=off&lg=a&maj=on&s=on&start=2022-04-23&v=1": {
+"json": {
+"date": "2026-10-21T01:09:37.920Z",
+"items": [
+{
+"category": "holiday",
+"date": "2022-04-23",
+"hdate": "22 Nisan 5782",
+"hebrew": "פסח ח׳",
+"leyning": {
+"1": "Deuteronomy 14:22-14:29",
+"2": "Deuteronomy 15:1-15:18",
+"3": "Deuteronomy 15:19-15:23",
+"4": "Deuteronomy 16:1-16:3",
+"5": "Deuteronomy 16:4-16:8",
+"6": "Deuteronomy 16:9-16:12",
+"7": "Deuteronomy 16:13-16:17",
+"haftarah": "Isaiah 10:32-12:6",
+"maftir": "Numbers 28:19-28:25",
+"torah": "Deuteronomy 14:22-16:17; Numbers 28:19-25; Song of Songs 1:1-8:14"
+},
+"link": "https://hebcal.com/h/pesach-2022?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach VIII",
+"yomtov": true
+}
+],
+"location": {
+"geo": "none"
+},
+"range": {
+"end": "2022-04-23",
+"start": "2022-04-23"
+},
+"title": "Hebcal Diaspora April 2022",
+"version": "6.14.6-4.2.2"
+},
+"status": 200
+},
+"https://www.hebcal.com/hebcal?cfg=json&end=2022-04-23&i=on&lg=a&maj=on&s=on&start=2022-04-23&v=1": {
+"json": {
+"date": "2026-10-21T01:09:37.998Z",
+"items": [
+{
+"category": "parashat",
+"date": "2022-04-23",
+"hdate": "22 Nisan 5782",
+"hebrew": "פרשת אחרי מות",
+"leyning": {
+"1": "Leviticus 16:1-16:17",
+"2": "Leviticus 16:18-16:24",
+"3": "Leviticus 16:25-16:34",
+"4": "Leviticus 17:1-17:7",
+"5": "Leviticus 17:8-18:5",
+"6": "Leviticus 18:6-18:21",
+"7": "Leviticus 18:22-18:30",
+"haftarah": "Amos 9:7-15",
+"haftarah_chabad": "Amos 9:7-15",
+"haftarah_sephardic": "Ezekiel 22:1-16",
+"maftir": "Leviticus 18:28-18:30",
+"torah": "Leviticus 16:1-18:30",
+"triennial": {
+"1": "Leviticus 17:1-17:7",
+"2": "Leviticus 17:8-17:12",
+"3": "Leviticus 17:13-17:16",
+"4": "Leviticus 18:1-18:5",
+"5": "Leviticus 18:6-18:21",
+"6": "Leviticus 18:22-18:25",
+"7": "Leviticus 18:26-18:30",
+"maftir": "Leviticus 18:26-18:30"
+}
+},
+"link": "https://hebcal.com/s/5782i/29?us=js&um=api",
+"title": "Parshas Achrei Mos",
+"title_orig": "Parashat Achrei Mot"
+}
+],
+"location": {
+"geo": "none"
+},
+"range": {
+"end": "2022-04-23",
+"start": "2022-04-23"
+},
+"title": "Hebcal Israel April 2022",
+"version": "6.14.6-4.2.2"
+},
+"status": 200
+},
+"https://www.hebcal.com/hebcal?cfg=json&end=2026-10-24&i=off&lg=a&maj=on&s=on&start=2026-10-24&v=1": {
+"json": {
+"date": "2026-10-21T01:05:52.762Z",
+"items": [
+{
+"category": "parashat",
+"date": "2026-10-24",
+"hdate": "13 Cheshvan 5787",
+"hebrew": "פרשת לך־לך",
+"leyning": {
+"1": "Genesis 12:1-12:13",
+"2": "Genesis 12:14-13:4",
+"3": "Genesis 13:5-13:18",
+"4": "Genesis 14:1-14:20",
+"5": "Genesis 14:21-15:6",
+"6": "Genesis 15:7-17:6",
+"7": "Genesis 17:7-17:27",
+"haftarah": "Isaiah 40:27-41:16",
+"maftir": "Genesis 17:24-17:27",
+"torah": "Genesis 12:1-17:27",
+"triennial": {
+"1": "Genesis 14:1-14:9",
+"2": "Genesis 14:10-14:16",
+"3": "Genesis 14:17-14:20",
+"4": "Genesis 14:21-14:24",
+"5": "Genesis 15:1-15:6",
+"6": "Genesis 15:7-15:16",
+"7": "Genesis 15:17-15:21",
+"maftir": "Genesis 15:17-15:21"
+}
+},
+"link": "https://hebcal.com/s/5787/3?us=js&um=api",
+"title": "Parshas Lech-Lecha",
+"title_orig": "Parashat Lech-Lecha"
+}
+],
+"location": {
+"geo": "none"
+},
+"range": {
+"end": "2026-10-24",
+"start": "2026-10-24"
+},
+"title": "Hebcal Diaspora October 2026",
+"version": "6.14.6-4.2.2"
+},
+"status": 200
+},
+"https://www.hebcal.com/hebcal?cfg=json&end=2027-05-01&i=off&lg=a&maj=on&s=on&start=2027-05-01&v=1": {
+"json": {
+"date": "2026-10-21T01:09:19.126Z",
+"items": [
+{
+"category": "parashat",
+"date": "2027-05-01",
+"hdate": "24 Nisan 5787",
+"hebrew": "פרשת אחרי מות",
+"leyning": {
+"1": "Leviticus 16:1-16:17",
+"2": "Leviticus 16:18-16:24",
+"3": "Leviticus 16:25-16:34",
+"4": "Leviticus 17:1-17:7",
+"5": "Leviticus 17:8-18:5",
+"6": "Leviticus 18:6-18:21",
+"7": "Leviticus 18:22-18:30",
+"haftarah": "Amos 9:7-15",
+"haftarah_chabad": "Amos 9:7-15",
+"haftarah_sephardic": "Ezekiel 22:1-16",
+"maftir": "Leviticus 18:28-18:30",
+"torah": "Leviticus 16:1-18:30",
+"triennial": {
+"1": "Leviticus 17:1-17:7",
+"2": "Leviticus 17:8-17:12",
+"3": "Leviticus 17:13-17:16",
+"4": "Leviticus 18:1-18:5",
+"5": "Leviticus 18:6-18:21",
+"6": "Leviticus 18:22-18:25",
+"7": "Leviticus 18:26-18:30",
+"maftir": "Leviticus 18:26-18:30"
+}
+},
+"link": "https://hebcal.com/s/5787/29?us=js&um=api",
+"title": "Parshas Achrei Mos",
+"title_orig": "Parashat Achrei Mot"
+}
+],
+"location": {
+"geo": "none"
+},
+"range": {
+"end": "2027-05-01",
+"start": "2027-05-01"
+},
+"title": "Hebcal Diaspora May 2027",
+"version": "6.14.6-4.2.2"
+},
+"status": 200
+},
+"https://www.hebcal.com/hebcal?cfg=json&end=2027-05-01&i=on&lg=a&maj=on&s=on&start=2027-05-01&v=1": {
+"json": {
+"date": "2026-10-21T01:09:19.208Z",
+"items": [
+{
+"category": "parashat",
+"date": "2027-05-01",
+"hdate": "24 Nisan 5787",
+"hebrew": "פרשת אחרי מות",
+"leyning": {
+"1": "Leviticus 16:1-16:17",
+"2": "Leviticus 16:18-16:24",
+"3": "Leviticus 16:25-16:34",
+"4": "Leviticus 17:1-17:7",
+"5": "Leviticus 17:8-18:5",
+"6": "Leviticus 18:6-18:21",
+"7": "Leviticus 18:22-18:30",
+"haftarah": "Amos 9:7-15",
+"haftarah_chabad": "Amos 9:7-15",
+"haftarah_sephardic": "Ezekiel 22:1-16",
+"maftir": "Leviticus 18:28-18:30",
+"torah": "Leviticus 16:1-18:30",
+"triennial": {
+"1": "Leviticus 17:1-17:7",
+"2": "Leviticus 17:8-17:12",
+"3": "Leviticus 17:13-17:16",
+"4": "Leviticus 18:1-18:5",
+"5": "Leviticus 18:6-18:21",
+"6": "Leviticus 18:22-18:25",
+"7": "Leviticus 18:26-18:30",
+"maftir": "Leviticus 18:26-18:30"
+}
+},
+"link": "https://hebcal.com/s/5787i/29?us=js&um=api",
+"title": "Parshas Achrei Mos",
+"title_orig": "Parashat Achrei Mot"
+}
+],
+"location": {
+"geo": "none"
+},
+"range": {
+"end": "2027-05-01",
+"start": "2027-05-01"
+},
+"title": "Hebcal Israel May 2027",
+"version": "6.14.6-4.2.2"
+},
+"status": 200
+},
+"https://www.hebcal.com/hebcal?cfg=json&end=2027-11-25&i=off&lg=a&maj=on&mf=on&min=on&mod=off&nx=off&start=2026-10-21&v=1": {
+"json": {
+"date": "2026-10-21T01:09:19.496Z",
+"items": [
+{
+"category": "holiday",
+"date": "2026-12-04",
+"hdate": "24 Kislev 5787",
+"hebrew": "חנוכה: א׳ נר",
+"link": "https://hebcal.com/h/chanukah-2026?us=js&um=api",
+"memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights, the eight-day festival is observed by lighting the candles of a hanukkiah (menorah)",
+"subcat": "major",
+"title": "Chanukah: 1 Candle"
+},
+{
+"category": "holiday",
+"date": "2026-12-05",
+"hdate": "25 Kislev 5787",
+"hebrew": "חנוכה: ב׳ נרות",
+"leyning": {
+"haftarah": "Zechariah 2:14-4:7",
+"maftir": "Numbers 7:1-7:17"
+},
+"link": "https://hebcal.com/h/chanukah-2026?us=js&um=api",
+"memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights, the eight-day festival is observed by lighting the candles of a hanukkiah (menorah)",
+"subcat": "major",
+"title": "Chanukah: 2 Candles"
+},
+{
+"category": "holiday",
+"date": "2026-12-06",
+"hdate": "26 Kislev 5787",
+"hebrew": "חנוכה: ג׳ נרות",
+"leyning": {
+"1": "Numbers 7:18-7:20",
+"2": "Numbers 7:21-7:23",
+"3": "Numbers 7:24-7:29",
+"torah": "Numbers 7:18-29"
+},
+"link": "https://hebcal.com/h/chanukah-2026?us=js&um=api",
+"memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights, the eight-day festival is observed by lighting the candles of a hanukkiah (menorah)",
+"subcat": "major",
+"title": "Chanukah: 3 Candles"
+},
+{
+"category": "holiday",
+"date": "2026-12-07",
+"hdate": "27 Kislev 5787",
+"hebrew": "חנוכה: ד׳ נרות",
+"leyning": {
+"1": "Numbers 7:24-7:26",
+"2": "Numbers 7:27-7:29",
+"3": "Numbers 7:30-7:35",
+"torah": "Numbers 7:24-35"
+},
+"link": "https://hebcal.com/h/chanukah-2026?us=js&um=api",
+"memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights, the eight-day festival is observed by lighting the candles of a hanukkiah (menorah)",
+"subcat": "major",
+"title": "Chanukah: 4 Candles"
+},
+{
+"category": "holiday",
+"date": "2026-12-08",
+"hdate": "28 Kislev 5787",
+"hebrew": "חנוכה: ה׳ נרות",
+"leyning": {
+"1": "Numbers 7:30-7:32",
+"2": "Numbers 7:33-7:35",
+"3": "Numbers 7:36-7:41",
+"torah": "Numbers 7:30-41"
+},
+"link": "https://hebcal.com/h/chanukah-2026?us=js&um=api",
+"memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights, the eight-day festival is observed by lighting the candles of a hanukkiah (menorah)",
+"subcat": "major",
+"title": "Chanukah: 5 Candles"
+},
+{
+"category": "holiday",
+"date": "2026-12-09",
+"hdate": "29 Kislev 5787",
+"hebrew": "חנוכה: ו׳ נרות",
+"leyning": {
+"1": "Numbers 7:36-7:38",
+"2": "Numbers 7:39-7:41",
+"3": "Numbers 7:42-7:47",
+"torah": "Numbers 7:36-47"
+},
+"link": "https://hebcal.com/h/chanukah-2026?us=js&um=api",
+"memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights, the eight-day festival is observed by lighting the candles of a hanukkiah (menorah)",
+"subcat": "major",
+"title": "Chanukah: 6 Candles"
+},
+{
+"category": "holiday",
+"date": "2026-12-10",
+"hdate": "30 Kislev 5787",
+"hebrew": "חג הבנות",
+"link": "https://hebcal.com/h/chag-habanot-2026?us=js&um=api",
+"memo": "North African Chanukah festival of daughters. Called Eid al-Banat in Arabic, the holiday was most preserved in Tunisia",
+"subcat": "minor",
+"title": "Chag HaBanot"
+},
+{
+"category": "holiday",
+"date": "2026-12-10",
+"hdate": "30 Kislev 5787",
+"hebrew": "חנוכה: ז׳ נרות",
+"leyning": {
+"1": "Numbers 28:1-28:5",
+"2": "Numbers 28:6-28:10",
+"3": "Numbers 28:11-28:15",
+"4": "Numbers 7:42-7:47",
+"torah": "Numbers 28:1-15, 7:42-47"
+},
+"link": "https://hebcal.com/h/chanukah-2026?us=js&um=api",
+"memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights, the eight-day festival is observed by lighting the candles of a hanukkiah (menorah)",
+"subcat": "major",
+"title": "Chanukah: 7 Candles"
+},
+{
+"category": "holiday",
+"date": "2026-12-11",
+"hdate": "1 Tevet 5787",
+"hebrew": "חנוכה: ח׳ נרות",
+"leyning": {
+"1": "Numbers 28:1-28:5",
+"2": "Numbers 28:6-28:10",
+"3": "Numbers 28:11-28:15",
+"4": "Numbers 7:48-7:53",
+"torah": "Numbers 28:1-15, 7:48-53"
+},
+"link": "https://hebcal.com/h/chanukah-2026?us=js&um=api",
+"memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights, the eight-day festival is observed by lighting the candles of a hanukkiah (menorah)",
+"subcat": "major",
+"title": "Chanukah: 8 Candles"
+},
+{
+"category": "holiday",
+"date": "2026-12-12",
+"hdate": "2 Tevet 5787",
+"hebrew": "חנוכה: יום ח׳",
+"leyning": {
+"haftarah": "I Kings 7:40-50",
+"maftir": "Numbers 7:54-8:4"
+},
+"link": "https://hebcal.com/h/chanukah-2026?us=js&um=api",
+"memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights, the eight-day festival is observed by lighting the candles of a hanukkiah (menorah)",
+"subcat": "major",
+"title": "Chanukah: 8th Day"
+},
+{
+"category": "holiday",
+"date": "2026-12-20",
+"hdate": "10 Tevet 5787",
+"hebrew": "עשרה בטבת",
+"leyning": {
+"1": "Exodus 32:11-32:14",
+"2": "Exodus 34:1-34:3",
+"3": "Exodus 34:4-34:10",
+"torah": "Exodus 32:11-14, 34:1-10"
+},
+"link": "https://hebcal.com/h/asara-btevet-20261220?us=js&um=api",
+"memo": "Fast commemorating the siege of Jerusalem",
+"subcat": "fast",
+"title": "Asara B’Teves",
+"title_orig": "Asara B'Tevet"
+},
+{
+"category": "holiday",
+"date": "2027-01-23",
+"hdate": "15 Sh'vat 5787",
+"hebrew": "ט״ו בשבט",
+"link": "https://hebcal.com/h/tu-bishvat-2027?us=js&um=api",
+"memo": "New Year for Trees. Tu BiShvat is one of four “New Years” mentioned in the Mishnah",
+"subcat": "minor",
+"title": "Tu BiShvat"
+},
+{
+"category": "holiday",
+"date": "2027-02-21",
+"hdate": "14 Adar I 5787",
+"hebrew": "פורים קטן",
+"link": "https://hebcal.com/h/purim-katan-2027?us=js&um=api",
+"memo": "Minor Purim celebration during Adar I on leap years",
+"subcat": "minor",
+"title": "Purim Koton",
+"title_orig": "Purim Katan"
+},
+{
+"category": "holiday",
+"date": "2027-02-22",
+"hdate": "15 Adar I 5787",
+"hebrew": "שושן פורים קטן",
+"link": "https://hebcal.com/h/shushan-purim-katan-2027?us=js&um=api",
+"memo": "Minor Purim celebration during Adar I on leap years in Jerusalem and walled cities",
+"subcat": "minor",
+"title": "Shushan Purim Koton",
+"title_orig": "Shushan Purim Katan"
+},
+{
+"category": "holiday",
+"date": "2027-03-22",
+"hdate": "13 Adar II 5787",
+"hebrew": "תענית אסתר",
+"leyning": {
+"1": "Exodus 32:11-32:14",
+"2": "Exodus 34:1-34:3",
+"3": "Exodus 34:4-34:10",
+"torah": "Exodus 32:11-14, 34:1-10"
+},
+"link": "https://hebcal.com/h/taanit-esther-2027?us=js&um=api",
+"memo": "Fast of Esther",
+"subcat": "fast",
+"title": "Ta’anis Esther",
+"title_orig": "Ta'anit Esther"
+},
+{
+"category": "holiday",
+"date": "2027-03-22",
+"hdate": "13 Adar II 5787",
+"hebrew": "ערב פורים",
+"leyning": {
+"torah": "Esther 1:1-10:3"
+},
+"link": "https://hebcal.com/h/purim-2027?us=js&um=api",
+"memo": "Celebration of Jewish deliverance as told by Megilat Esther. It commemorates a time when the Jewish people living in Persia were saved from extermination",
+"subcat": "major",
+"title": "Erev Purim"
+},
+{
+"category": "holiday",
+"date": "2027-03-23",
+"hdate": "14 Adar II 5787",
+"hebrew": "פורים",
+"leyning": {
+"1": "Exodus 17:8-17:10",
+"2": "Exodus 17:11-17:13",
+"3": "Exodus 17:14-17:16",
+"torah": "Exodus 17:8-16; Esther 1:1-10:3"
+},
+"link": "https://hebcal.com/h/purim-2027?us=js&um=api",
+"memo": "Celebration of Jewish deliverance as told by Megilat Esther. It commemorates a time when the Jewish people living in Persia were saved from extermination",
+"subcat": "major",
+"title": "Purim"
+},
+{
+"category": "holiday",
+"date": "2027-03-24",
+"hdate": "15 Adar II 5787",
+"hebrew": "שושן פורים",
+"link": "https://hebcal.com/h/shushan-purim-2027?us=js&um=api",
+"memo": "Purim celebrated in Jerusalem and walled cities",
+"subcat": "minor",
+"title": "Shushan Purim"
+},
+{
+"category": "holiday",
+"date": "2027-04-21",
+"hdate": "14 Nisan 5787",
+"hebrew": "תענית בכורות",
+"link": "https://hebcal.com/h/taanit-bechorot-2027?us=js&um=api",
+"memo": "Fast of the First Born",
+"subcat": "fast",
+"title": "Ta’anis Bechoros",
+"title_orig": "Ta'anit Bechorot"
+},
+{
+"category": "holiday",
+"date": "2027-04-21",
+"hdate": "14 Nisan 5787",
+"hebrew": "ערב פסח",
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Erev Pesach"
+},
+{
+"category": "holiday",
+"date": "2027-04-22",
+"hdate": "15 Nisan 5787",
+"hebrew": "פסח א׳",
+"leyning": {
+"1": "Exodus 12:21-12:24",
+"2": "Exodus 12:25-12:28",
+"3": "Exodus 12:29-12:36",
+"4": "Exodus 12:37-12:42",
+"5": "Exodus 12:43-12:51",
+"haftarah": "Joshua 3:5-7, 5:2-6:1, 6:27",
+"haftarah_sephardic": "Joshua 5:2-6:1, 6:27",
+"maftir": "Numbers 28:16-28:25",
+"torah": "Exodus 12:21-51; Numbers 28:16-25"
+},
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach I",
+"yomtov": true
+},
+{
+"category": "holiday",
+"date": "2027-04-23",
+"hdate": "16 Nisan 5787",
+"hebrew": "פסח ב׳",
+"leyning": {
+"1": "Leviticus 22:26-23:3",
+"2": "Leviticus 23:4-23:14",
+"3": "Leviticus 23:15-23:22",
+"4": "Leviticus 23:23-23:32",
+"5": "Leviticus 23:33-23:44",
+"haftarah": "II Kings 23:1-9, 23:21-25",
+"maftir": "Numbers 28:16-28:25",
+"torah": "Leviticus 22:26-23:44; Numbers 28:16-25"
+},
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach II",
+"yomtov": true
+},
+{
+"category": "holiday",
+"date": "2027-04-24",
+"hdate": "17 Nisan 5787",
+"hebrew": "פסח ג׳ (חוה״מ)",
+"leyning": {
+"1": "Exodus 33:12-33:16",
+"2": "Exodus 33:17-33:19",
+"3": "Exodus 33:20-33:23",
+"4": "Exodus 34:1-34:3",
+"5": "Exodus 34:4-34:10",
+"6": "Exodus 34:11-34:17",
+"7": "Exodus 34:18-34:26",
+"haftarah": "Ezekiel 37:1-14",
+"maftir": "Numbers 28:19-28:25",
+"torah": "Exodus 33:12-34:26; Numbers 28:19-25; Song of Songs 1:1-8:14"
+},
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach III (CH’’M)",
+"title_orig": "Pesach III (CH''M)"
+},
+{
+"category": "holiday",
+"date": "2027-04-25",
+"hdate": "18 Nisan 5787",
+"hebrew": "פסח ד׳ (חוה״מ)",
+"leyning": {
+"1": "Exodus 13:1-13:4",
+"2": "Exodus 13:5-13:10",
+"3": "Exodus 13:11-13:16",
+"4": "Numbers 28:19-28:25",
+"torah": "Exodus 13:1-16; Numbers 28:19-25"
+},
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach IV (CH’’M)",
+"title_orig": "Pesach IV (CH''M)"
+},
+{
+"category": "holiday",
+"date": "2027-04-26",
+"hdate": "19 Nisan 5787",
+"hebrew": "פסח ה׳ (חוה״מ)",
+"leyning": {
+"1": "Exodus 22:24-22:26",
+"2": "Exodus 22:27-23:5",
+"3": "Exodus 23:6-23:19",
+"4": "Numbers 28:19-28:25",
+"torah": "Exodus 22:24-23:19; Numbers 28:19-25"
+},
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach V (CH’’M)",
+"title_orig": "Pesach V (CH''M)"
+},
+{
+"category": "holiday",
+"date": "2027-04-27",
+"hdate": "20 Nisan 5787",
+"hebrew": "פסח ו׳ (חוה״מ)",
+"leyning": {
+"1": "Numbers 9:1-9:5",
+"2": "Numbers 9:6-9:8",
+"3": "Numbers 9:9-9:14",
+"4": "Numbers 28:19-28:25",
+"torah": "Numbers 9:1-14, 28:19-25"
+},
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach VI (CH’’M)",
+"title_orig": "Pesach VI (CH''M)"
+},
+{
+"category": "holiday",
+"date": "2027-04-28",
+"hdate": "21 Nisan 5787",
+"hebrew": "פסח ז׳",
+"leyning": {
+"1": "Exodus 13:17-13:22",
+"2": "Exodus 14:1-14:8",
+"3": "Exodus 14:9-14:14",
+"4": "Exodus 14:15-14:25",
+"5": "Exodus 14:26-15:26",
+"haftarah": "II Samuel 22:1-51",
+"maftir": "Numbers 28:19-28:25",
+"torah": "Exodus 13:17-15:26; Numbers 28:19-25"
+},
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach VII",
+"yomtov": true
+},
+{
+"category": "holiday",
+"date": "2027-04-29",
+"hdate": "22 Nisan 5787",
+"hebrew": "פסח ח׳",
+"leyning": {
+"1": "Deuteronomy 15:19-15:23",
+"2": "Deuteronomy 16:1-16:3",
+"3": "Deuteronomy 16:4-16:8",
+"4": "Deuteronomy 16:9-16:12",
+"5": "Deuteronomy 16:13-16:17",
+"haftarah": "Isaiah 10:32-12:6",
+"maftir": "Numbers 28:19-28:25",
+"torah": "Deuteronomy 15:19-16:17; Numbers 28:19-25"
+},
+"link": "https://hebcal.com/h/pesach-2027?us=js&um=api",
+"memo": "Passover, the Feast of Unleavened Bread. Also called Chag HaMatzot (the Festival of Matzah), it commemorates the Exodus and freedom of the Israelites from ancient Egypt",
+"subcat": "major",
+"title": "Pesach VIII",
+"yomtov": true
+},
+{
+"category": "holiday",
+"date": "2027-05-21",
+"hdate": "14 Iyyar 5787",
+"hebrew": "פסח שני",
+"link": "https://hebcal.com/h/pesach-sheni-2027?us=js&um=api",
+"memo": "Second Passover, one month after Passover",
+"subcat": "minor",
+"title": "Pesach Sheni"
+},
+{
+"category": "holiday",
+"date": "2027-05-25",
+"hdate": "18 Iyyar 5787",
+"hebrew": "ל״ג בעומר",
+"link": "https://hebcal.com/h/lag-baomer-2027?us=js&um=api",
+"memo": "33rd day of counting the Omer. The holiday is a temporary break from the semi-mourning period the counting of the Omer. Practices include lighting bonfires, getting haircuts, and Jewish weddings",
+"subcat": "minor",
+"title": "Lag BaOmer"
+},
+{
+"category": "holiday",
+"date": "2027-06-10",
+"hdate": "5 Sivan 5787",
+"hebrew": "ערב שבועות",
+"link": "https://hebcal.com/h/shavuot-2027?us=js&um=api",
+"memo": "Festival of Weeks. Commemorates the giving of the Torah at Mount Sinai",
+"subcat": "major",
+"title": "Erev Shavuos",
+"title_orig": "Erev Shavuot"
+},
+{
+"category": "holiday",
+"date": "2027-06-11",
+"hdate": "6 Sivan 5787",
+"hebrew": "שבועות א׳",
+"leyning": {
+"1": "Exodus 19:1-19:6",
+"2": "Exodus 19:7-19:13",
+"3": "Exodus 19:14-19:19",
+"4": "Exodus 19:20-20:14",
+"5": "Exodus 20:15-20:23",
+"haftarah": "Ezekiel 1:1-28, 3:12",
+"maftir": "Numbers 28:26-28:31",
+"torah": "Exodus 19:1-20:23; Numbers 28:26-31"
+},
+"link": "https://hebcal.com/h/shavuot-2027?us=js&um=api",
+"memo": "Festival of Weeks. Commemorates the giving of the Torah at Mount Sinai",
+"subcat": "major",
+"title": "Shavuos I",
+"title_orig": "Shavuot I",
+"yomtov": true
+},
+{
+"category": "holiday",
+"date": "2027-06-12",
+"hdate": "7 Sivan 5787",
+"hebrew": "שבועות ב׳",
+"leyning": {
+"1": "Deuteronomy 14:22-14:29",
+"2": "Deuteronomy 15:1-15:18",
+"3": "Deuteronomy 15:19-15:23",
+"4": "Deuteronomy 16:1-16:3",
+"5": "Deuteronomy 16:4-16:8",
+"6": "Deuteronomy 16:9-16:12",
+"7": "Deuteronomy 16:13-16:17",
+"haftarah": "Habakkuk 3:1-19",
+"haftarah_sephardic": "Habakkuk 2:20-3:19",
+"maftir": "Numbers 28:26-28:31",
+"torah": "Deuteronomy 14:22-16:17; Numbers 28:26-31; Ruth 1:1-4:22"
+},
+"link": "https://hebcal.com/h/shavuot-2027?us=js&um=api",
+"memo": "Festival of Weeks. Commemorates the giving of the Torah at Mount Sinai",
+"subcat": "major",
+"title": "Shavuos II",
+"title_orig": "Shavuot II",
+"yomtov": true
+},
+{
+"category": "holiday",
+"date": "2027-07-22",
+"hdate": "17 Tamuz 5787",
+"hebrew": "צום י״ז בתמוז",
+"leyning": {
+"1": "Exodus 32:11-32:14",
+"2": "Exodus 34:1-34:3",
+"3": "Exodus 34:4-34:10",
+"torah": "Exodus 32:11-14, 34:1-10"
+},
+"link": "https://hebcal.com/h/tzom-tammuz-2027?us=js&um=api",
+"memo": "Fast commemorating breaching of the walls of Jerusalem before the destruction of the Second Temple",
+"subcat": "fast",
+"title": "Tzom Tammuz"
+},
+{
+"category": "holiday",
+"date": "2027-08-11",
+"hdate": "8 Av 5787",
+"hebrew": "ערב תשעה באב",
+"leyning": {
+"torah": "Lamentations 1:1-5:22"
+},
+"link": "https://hebcal.com/h/tisha-bav-2027?us=js&um=api",
+"memo": "The Ninth of Av. Fast commemorating the destruction of the two Temples",
+"subcat": "major",
+"title": "Erev Tish’a B’Av",
+"title_orig": "Erev Tish'a B'Av"
+},
+{
+"category": "holiday",
+"date": "2027-08-12",
+"hdate": "9 Av 5787",
+"hebrew": "תשעה באב",
+"leyning": {
+"1": "Deuteronomy 4:25-4:29",
+"2": "Deuteronomy 4:30-4:35",
+"3": "Deuteronomy 4:36-4:40",
+"haftarah": "Jeremiah 8:13-9:23",
+"torah": "Deuteronomy 4:25-40; Lamentations 1:1-5:22"
+},
+"link": "https://hebcal.com/h/tisha-bav-2027?us=js&um=api",
+"memo": "The Ninth of Av. Fast commemorating the destruction of the two Temples",
+"subcat": "major",
+"title": "Tish’a B’Av",
+"title_orig": "Tish'a B'Av"
+},
+{
+"category": "holiday",
+"date": "2027-08-18",
+"hdate": "15 Av 5787",
+"hebrew": "ט״ו באב",
+"link": "https://hebcal.com/h/tu-bav-2027?us=js&um=api",
+"memo": "Minor Jewish holiday of love. Observed on the 15th day of the Hebrew month of Av",
+"subcat": "minor",
+"title": "Tu B’Av",
+"title_orig": "Tu B'Av"
+},
+{
+"category": "holiday",
+"date": "2027-09-03",
+"hdate": "1 Elul 5787",
+"hebrew": "ראש השנה למעשר בהמה",
+"link": "https://hebcal.com/h/rosh-hashana-labehemot-2027?us=js&um=api",
+"memo": "New Year for Tithing Animals",
+"subcat": "minor",
+"title": "Rosh Hashana LaBeheimos",
+"title_orig": "Rosh Hashana LaBehemot"
+},
+{
+"category": "holiday",
+"date": "2027-09-25",
+"hdate": "23 Elul 5787",
+"hebrew": "סליחות",
+"link": "https://hebcal.com/h/leil-selichot-2027?us=js&um=api",
+"memo": "Prayers for forgiveness in preparation for the High Holidays",
+"subcat": "minor",
+"title": "Leil Selichos",
+"title_orig": "Leil Selichot"
+},
+{
+"category": "holiday",
+"date": "2027-10-01",
+"hdate": "29 Elul 5787",
+"hebrew": "ערב ראש השנה",
+"link": "https://hebcal.com/h/rosh-hashana-2027?us=js&um=api",
+"memo": "The Jewish New Year. Also spelled Rosh Hashanah",
+"subcat": "major",
+"title": "Erev Rosh Hashana"
+},
+{
+"category": "holiday",
+"date": "2027-10-02",
+"hdate": "1 Tishrei 5788",
+"hebrew": "ראש השנה 5788",
+"leyning": {
+"1": "Genesis 21:1-21:4",
+"2": "Genesis 21:5-21:8",
+"3": "Genesis 21:9-21:12",
+"4": "Genesis 21:13-21:17",
+"5": "Genesis 21:18-21:21",
+"6": "Genesis 21:22-21:27",
+"7": "Genesis 21:28-21:34",
+"haftarah": "I Samuel 1:1-2:10",
+"maftir": "Numbers 29:1-29:6",
+"torah": "Genesis 21:1-34; Numbers 29:1-6"
+},
+"link": "https://hebcal.com/h/rosh-hashana-2027?us=js&um=api",
+"memo": "The Jewish New Year. Also spelled Rosh Hashanah",
+"subcat": "major",
+"title": "Rosh Hashana 5788",
+"yomtov": true
+},
+{
+"category": "holiday",
+"date": "2027-10-03",
+"hdate": "2 Tishrei 5788",
+"hebrew": "ראש השנה ב׳",
+"leyning": {
+"1": "Genesis 22:1-22:3",
+"2": "Genesis 22:4-22:8",
+"3": "Genesis 22:9-22:14",
+"4": "Genesis 22:15-22:19",
+"5": "Genesis 22:20-22:24",
+"haftarah": "Jeremiah 31:2-20",
+"maftir": "Numbers 29:1-29:6",
+"torah": "Genesis 22:1-24; Numbers 29:1-6"
+},
+"link": "https://hebcal.com/h/rosh-hashana-2027?us=js&um=api",
+"memo": "The Jewish New Year. Also spelled Rosh Hashanah",
+"subcat": "major",
+"title": "Rosh Hashana II",
+"yomtov": true
+},
+{
+"category": "holiday",
+"date": "2027-10-04",
+"hdate": "3 Tishrei 5788",
+"hebrew": "צום גדליה",
+"leyning": {
+"1": "Exodus 32:11-32:14",
+"2": "Exodus 34:1-34:3",
+"3": "Exodus 34:4-34:10",
+"torah": "Exodus 32:11-14, 34:1-10"
+},
+"link": "https://hebcal.com/h/tzom-gedaliah-2027?us=js&um=api",
+"memo": "Fast of the Seventh Month. Commemorates the assassination of the Jewish governor of Judah",
+"subcat": "fast",
+"title": "Tzom Gedaliah"
+},
+{
+"category": "holiday",
+"date": "2027-10-10",
+"hdate": "9 Tishrei 5788",
+"hebrew": "ערב יום כיפור",
+"link": "https://hebcal.com/h/yom-kippur-2027?us=js&um=api",
+"memo": "Evening of Yom Kippur (Day of Atonement), which includes the Kol Nidre service. The Yom Kippur fast begins at sundown and continues for 25 hours",
+"subcat": "major",
+"title": "Erev Yom Kippur"
+},
+{
+"category": "holiday",
+"date": "2027-10-11",
+"hdate": "10 Tishrei 5788",
+"hebrew": "יום כיפור",
+"leyning": {
+"1": "Leviticus 16:1-16:6",
+"2": "Leviticus 16:7-16:11",
+"3": "Leviticus 16:12-16:17",
+"4": "Leviticus 16:18-16:24",
+"5": "Leviticus 16:25-16:30",
+"6": "Leviticus 16:31-16:34",
+"haftarah": "Isaiah 57:14-58:14",
+"maftir": "Numbers 29:7-29:11",
+"torah": "Leviticus 16:1-34; Numbers 29:7-11"
+},
+"link": "https://hebcal.com/h/yom-kippur-2027?us=js&um=api",
+"memo": "Day of Atonement. The holiest day of the year in Judaism, traditionally observed with a 25-hour period of fasting and intensive prayer",
+"subcat": "major",
+"title": "Yom Kippur",
+"yomtov": true
+},
+{
+"category": "holiday",
+"date": "2027-10-15",
+"hdate": "14 Tishrei 5788",
+"hebrew": "ערב סוכות",
+"link": "https://hebcal.com/h/sukkot-2027?us=js&um=api",
+"memo": "Feast of Booths. Also called the Feast of Tabernacles, the seven-day holiday is one of the Three Pilgrimage Festivals (Hebrew: שלוש רגלים, shalosh regalim)",
+"subcat": "major",
+"title": "Erev Sukkos",
+"title_orig": "Erev Sukkot"
+},
+{
+"category": "holiday",
+"date": "2027-10-16",
+"hdate": "15 Tishrei 5788",
+"hebrew": "סוכות א׳",
+"leyning": {
+"1": "Leviticus 22:26-22:33",
+"2": "Leviticus 23:1-23:3",
+"3": "Leviticus 23:4-23:8",
+"4": "Leviticus 23:9-23:14",
+"5": "Leviticus 23:15-23:22",
+"6": "Leviticus 23:23-23:32",
+"7": "Leviticus 23:33-23:44",
+"haftarah": "Zechariah 14:1-21",
+"maftir": "Numbers 29:12-29:16",
+"torah": "Leviticus 22:26-23:44; Numbers 29:12-16"
+},
+"link": "https://hebcal.com/h/sukkot-2027?us=js&um=api",
+"memo": "Feast of Booths. Also called the Feast of Tabernacles, the seven-day holiday is one of the Three Pilgrimage Festivals (Hebrew: שלוש רגלים, shalosh regalim)",
+"subcat": "major",
+"title": "Sukkos I",
+"title_orig": "Sukkot I",
+"yomtov": true
+},
+{
+"category": "holiday",
+"date": "2027-10-17",
+"hdate": "16 Tishrei 5788",
+"hebrew": "סוכות ב׳",
+"leyning": {
+"1": "Leviticus 22:26-23:3",
+"2": "Leviticus 23:4-23:14",
+"3": "Leviticus 23:15-23:22",
+"4": "Leviticus 23:23-23:32",
+"5": "Leviticus 23:33-23:44",
+"haftarah": "I Kings 8:2-21",
+"maftir": "Numbers 29:12-29:16",
+"torah": "Leviticus 22:26-23:44; Numbers 29:12-16"
+},
+"link": "https://hebcal.com/h/sukkot-2027?us=js&um=api",
+"memo": "Feast of Booths. Also called the Feast of Tabernacles, the seven-day holiday is one of the Three Pilgrimage Festivals (Hebrew: שלוש רגלים, shalosh regalim)",
+"subcat": "major",
+"title": "Sukkos II",
+"title_orig": "Sukkot II",
+"yomtov": true
+},
+{
+"category": "holiday",
+"date": "2027-10-18",
+"hdate": "17 Tishrei 5788",
+"hebrew": "סוכות ג׳ (חוה״מ)",
+"leyning": {
+"1": "Numbers 29:17-29:19",
+"2": "Numbers 29:20-29:22",
+"3": "Numbers 29:23-29:25",
+"4": "Numbers 29:17-29:22",
+"torah": "Numbers 29:17-25"
+},
+"link": "https://hebcal.com/h/sukkot-2027?us=js&um=api",
+"memo": "Feast of Booths. Also called the Feast of Tabernacles, the seven-day holiday is one of the Three Pilgrimage Festivals (Hebrew: שלוש רגלים, shalosh regalim)",
+"subcat": "major",
+"title": "Sukkos III (CH’’M)",
+"title_orig": "Sukkot III (CH''M)"
+},
+{
+"category": "holiday",
+"date": "2027-10-19",
+"hdate": "18 Tishrei 5788",
+"hebrew": "סוכות ד׳ (חוה״מ)",
+"leyning": {
+"1": "Numbers 29:20-29:22",
+"2": "Numbers 29:23-29:25",
+"3": "Numbers 29:26-29:28",
+"4": "Numbers 29:20-29:25",
+"torah": "Numbers 29:20-28"
+},
+"link": "https://hebcal.com/h/sukkot-2027?us=js&um=api",
+"memo": "Feast of Booths. Also called the Feast of Tabernacles, the seven-day holiday is one of the Three Pilgrimage Festivals (Hebrew: שלוש רגלים, shalosh regalim)",
+"subcat": "major",
+"title": "Sukkos IV (CH’’M)",
+"title_orig": "Sukkot IV (CH''M)"
+},
+{
+"category": "holiday",
+"date": "2027-10-20",
+"hdate": "19 Tishrei 5788",
+"hebrew": "סוכות ה׳ (חוה״מ)",
+"leyning": {
+"1": "Numbers 29:23-29:25",
+"2": "Numbers 29:26-29:28",
+"3": "Numbers 29:29-29:31",
+"4": "Numbers 29:23-29:28",
+"torah": "Numbers 29:23-31"
+},
+"link": "https://hebcal.com/h/sukkot-2027?us=js&um=api",
+"memo": "Feast of Booths. Also called the Feast of Tabernacles, the seven-day holiday is one of the Three Pilgrimage Festivals (Hebrew: שלוש רגלים, shalosh regalim)",
+"subcat": "major",
+"title": "Sukkos V (CH’’M)",
+"title_orig": "Sukkot V (CH''M)"
+},
+{
+"category": "holiday",
+"date": "2027-10-21",
+"hdate": "20 Tishrei 5788",
+"hebrew": "סוכות ו׳ (חוה״מ)",
+"leyning": {
+"1": "Numbers 29:26-29:28",
+"2": "Numbers 29:29-29:31",
+"3": "Numbers 29:32-29:34",
+"4": "Numbers 29:26-29:31",
+"torah": "Numbers 29:26-34"
+},
+"link": "https://hebcal.com/h/sukkot-2027?us=js&um=api",
+"memo": "Feast of Booths. Also called the Feast of Tabernacles, the seven-day holiday is one of the Three Pilgrimage Festivals (Hebrew: שלוש רגלים, shalosh regalim)",
+"subcat": "major",
+"title": "Sukkos VI (CH’’M)",
+"title_orig": "Sukkot VI (CH''M)"
+},
+{
+"category": "holiday",
+"date": "2027-10-22",
+"hdate": "21 Tishrei 5788",
+"hebrew": "סוכות ז׳ (הושענא רבה)",
+"leyning": {
+"1": "Numbers 29:26-29:28",
+"2": "Numbers 29:29-29:31",
+"3": "Numbers 29:32-29:34",
+"4": "Numbers 29:29-29:34",
+"torah": "Numbers 29:26-34"
+},
+"link": "https://hebcal.com/h/sukkot-2027?us=js&um=api",
+"memo": "Feast of Booths. Also called the Feast of Tabernacles, the seven-day holiday is one of the Three Pilgrimage Festivals (Hebrew: שלוש רגלים, shalosh regalim)",
+"subcat": "major",
+"title": "Sukkos VII (Hoshana Raba)",
+"title_orig": "Sukkot VII (Hoshana Raba)"
+},
+{
+"category": "holiday",
+"date": "2027-10-23",
+"hdate": "22 Tishrei 5788",
+"hebrew": "שמיני עצרת",
+"leyning": {
+"1": "Deuteronomy 14:22-14:29",
+"2": "Deuteronomy 15:1-15:18",
+"3": "Deuteronomy 15:19-15:23",
+"4": "Deuteronomy 16:1-16:3",
+"5": "Deuteronomy 16:4-16:8",
+"6": "Deuteronomy 16:9-16:12",
+"7": "Deuteronomy 16:13-16:17",
+"haftarah": "I Kings 8:54-66",
+"maftir": "Numbers 29:35-30:1",
+"torah": "Deuteronomy 14:22-16:17; Numbers 29:35-30:1; Ecclesiastes 1:1-12:14"
+},
+"link": "https://hebcal.com/h/shmini-atzeret-2027?us=js&um=api",
+"memo": "Eighth Day of Assembly. Immediately following Sukkot, it is observed as a separate holiday in the Diaspora and is combined with Simchat Torah in Israel",
+"subcat": "major",
+"title": "Shmini Atzeres",
+"title_orig": "Shmini Atzeret",
+"yomtov": true
+},
+{
+"category": "holiday",
+"date": "2027-10-24",
+"hdate": "23 Tishrei 5788",
+"hebrew": "שמחת תורה",
+"leyning": {
+"1": "Deuteronomy 33:1-33:7",
+"2": "Deuteronomy 33:8-33:12",
+"3": "Deuteronomy 33:13-33:17",
+"4": "Deuteronomy 33:18-33:21",
+"5": "Deuteronomy 33:22-33:26",
+"6": "Deuteronomy 33:27-34:12",
+"7": "Genesis 1:1-2:3",
+"haftarah": "Joshua 1:1-18",
+"maftir": "Numbers 29:35-30:1",
+"torah": "Deuteronomy 33:1-34:12; Genesis 1:1-2:3; Numbers 29:35-30:1"
+},
+"link": "https://hebcal.com/h/simchat-torah-2027?us=js&um=api",
+"memo": "Day of Celebrating the Torah. Celebration marking the conclusion of the annual cycle of public Torah readings, and the beginning of a new cycle",
+"subcat": "major",
+"title": "Simchas Torah",
+"title_orig": "Simchat Torah",
+"yomtov": true
+}
+],
+"location": {
+"geo": "none"
+},
+"range": {
+"end": "2027-10-24",
+"start": "2026-12-04"
+},
+"title": "Hebcal Diaspora 2026-2027",
+"version": "6.14.6-4.2.2"
+},
+"status": 200
+},
+"https://www.hebcal.com/zmanim?cfg=json&date=2026-10-23&geonameid=5100280": {
+"json": {
+"date": "2026-10-23",
+"location": {
+"admin1": "New Jersey",
+"asciiname": "Lakewood",
+"cc": "US",
+"city": "Lakewood",
+"country": "United States",
+"geo": "geoname",
+"geonameid": 5100280,
+"latitude": 40.09789,
+"longitude": -74.21764,
+"title": "Lakewood, New Jersey, USA",
+"tzid": "America/New_York"
+},
+"times": {
+"alosBaalHatanya": "2026-10-23T05:51:00-04:00",
+"alotHaShachar": "2026-10-23T05:55:00-04:00",
+"beinHaShmashos": "2026-10-23T18:25:00-04:00",
+"chatzot": "2026-10-23T12:41:00-04:00",
+"chatzotNight": "2026-10-23T00:42:00-04:00",
+"dawn": "2026-10-23T06:48:00-04:00",
+"dusk": "2026-10-23T18:33:00-04:00",
+"minchaGedola": "2026-10-23T13:08:00-04:00",
+"minchaGedolaBaalHatanya": "2026-10-23T13:08:00-04:00",
+"minchaGedolaMGA": "2026-10-23T13:14:00-04:00",
+"minchaKetana": "2026-10-23T15:50:00-04:00",
+"minchaKetanaBaalHatanya": "2026-10-23T15:53:00-04:00",
+"minchaKetanaMGA": "2026-10-23T16:32:00-04:00",
+"misheyakir": "2026-10-23T06:19:00-04:00",
+"misheyakirMachmir": "2026-10-23T06:26:00-04:00",
+"plagHaMincha": "2026-10-23T16:58:00-04:00",
+"plagHaminchaBaalHatanya": "2026-10-23T17:01:00-04:00",
+"sofZmanShma": "2026-10-23T09:58:00-04:00",
+"sofZmanShmaBaalHatanya": "2026-10-23T09:56:00-04:00",
+"sofZmanShmaMGA": "2026-10-23T09:22:00-04:00",
+"sofZmanShmaMGA16Point1": "2026-10-23T09:18:00-04:00",
+"sofZmanShmaMGA19Point8": "2026-10-23T09:08:00-04:00",
+"sofZmanTfilaBaalHatanya": "2026-10-23T10:51:00-04:00",
+"sofZmanTfilla": "2026-10-23T10:53:00-04:00",
+"sofZmanTfillaMGA": "2026-10-23T10:29:00-04:00",
+"sofZmanTfillaMGA16Point1": "2026-10-23T10:26:00-04:00",
+"sofZmanTfillaMGA19Point8": "2026-10-23T10:19:00-04:00",
+"sunrise": "2026-10-23T07:16:00-04:00",
+"sunset": "2026-10-23T18:06:00-04:00",
+"tzaisBaalHatanya": "2026-10-23T18:33:00-04:00",
+"tzeit42min": "2026-10-23T18:48:00-04:00",
+"tzeit50min": "2026-10-23T18:56:00-04:00",
+"tzeit7083deg": "2026-10-23T18:39:00-04:00",
+"tzeit72min": "2026-10-23T19:18:00-04:00",
+"tzeit85deg": "2026-10-23T18:46:00-04:00"
+},
+"version": "v1.16.2"
+},
+"status": 200
+}
+}

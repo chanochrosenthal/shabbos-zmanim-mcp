@@ -1,0 +1,222 @@
+{
+ "checked_at": "2026-10-21T01:11:09+00:00",
+ "friday": "2026-10-23",
+ "server": "http://127.0.0.1:8765/mcp",
+ "cities": [
+  {
+   "city": "Lakewood, NJ",
+   "geonameid": 5100280,
+   "candle_minutes": 18,
+   "shabbos": {
+    "candle_lighting": {
+     "mcp": "17:47",
+     "hebcal_web": "17:47"
+    },
+    "havdalah": {
+     "mcp": "18:45",
+     "hebcal_web": "18:45"
+    },
+    "parsha": {
+     "mcp": "Parshas Lech-Lecha",
+     "hebcal_web": "Parashat Lech-Lecha"
+    }
+   },
+   "zmanim": {
+    "alos_hashachar": {
+     "mcp": "05:55",
+     "hebcal_api": "05:55",
+     "local_noaa": "05:55:15"
+    },
+    "sunrise": {
+     "mcp": "07:16",
+     "hebcal_api": "07:16",
+     "local_noaa": "07:16:05"
+    },
+    "sof_zman_shema_mga": {
+     "mcp": "09:22",
+     "hebcal_api": "09:22",
+     "local_noaa": "09:22:28"
+    },
+    "sof_zman_shema_gra": {
+     "mcp": "09:58",
+     "hebcal_api": "09:58",
+     "local_noaa": "09:58:28"
+    },
+    "sof_zman_tefila_gra": {
+     "mcp": "10:53",
+     "hebcal_api": "10:53",
+     "local_noaa": "10:52:35"
+    },
+    "chatzos": {
+     "mcp": "12:41",
+     "hebcal_api": "12:41",
+     "local_noaa": "12:41:07"
+    },
+    "mincha_gedola": {
+     "mcp": "13:08",
+     "hebcal_api": "13:08",
+     "local_noaa": "13:07:54"
+    },
+    "plag_hamincha": {
+     "mcp": "16:58",
+     "hebcal_api": "16:58",
+     "local_noaa": "16:57:57"
+    },
+    "sunset": {
+     "mcp": "18:06",
+     "hebcal_api": "18:06",
+     "local_noaa": "18:05:36"
+    },
+    "tzeis_8_5_degrees": {
+     "mcp": "18:46",
+     "hebcal_api": "18:46",
+     "local_noaa": "18:46:29"
+    }
+   }
+  },
+  {
+   "city": "Brooklyn, NY",
+   "geonameid": 5110302,
+   "candle_minutes": 18,
+   "shabbos": {
+    "candle_lighting": {
+     "mcp": "17:45",
+     "hebcal_web": "17:45"
+    },
+    "havdalah": {
+     "mcp": "18:44",
+     "hebcal_web": "18:44"
+    },
+    "parsha": {
+     "mcp": "Parshas Lech-Lecha",
+     "hebcal_web": "Parashat Lech-Lecha"
+    }
+   },
+   "zmanim": {
+    "alos_hashachar": {
+     "mcp": "05:54",
+     "hebcal_api": "05:54",
+     "local_noaa": "05:54:15"
+    },
+    "sunrise": {
+     "mcp": "07:16",
+     "hebcal_api": "07:16",
+     "local_noaa": "07:15:46"
+    },
+    "sof_zman_shema_mga": {
+     "mcp": "09:22",
+     "hebcal_api": "09:22",
+     "local_noaa": "09:21:46"
+    },
+    "sof_zman_shema_gra": {
+     "mcp": "09:58",
+     "hebcal_api": "09:58",
+     "local_noaa": "09:57:46"
+    },
+    "sof_zman_tefila_gra": {
+     "mcp": "10:52",
+     "hebcal_api": "10:52",
+     "local_noaa": "10:51:46"
+    },
+    "chatzos": {
+     "mcp": "12:40",
+     "hebcal_api": "12:40",
+     "local_noaa": "12:40:03"
+    },
+    "mincha_gedola": {
+     "mcp": "13:07",
+     "hebcal_api": "13:07",
+     "local_noaa": "13:06:46"
+    },
+    "plag_hamincha": {
+     "mcp": "16:56",
+     "hebcal_api": "16:56",
+     "local_noaa": "16:56:16"
+    },
+    "sunset": {
+     "mcp": "18:04",
+     "hebcal_api": "18:04",
+     "local_noaa": "18:03:46"
+    },
+    "tzeis_8_5_degrees": {
+     "mcp": "18:45",
+     "hebcal_api": "18:45",
+     "local_noaa": "18:44:59"
+    }
+   }
+  },
+  {
+   "city": "Jerusalem",
+   "geonameid": 281184,
+   "candle_minutes": 40,
+   "shabbos": {
+    "candle_lighting": {
+     "mcp": "17:18",
+     "hebcal_web": "17:18"
+    },
+    "havdalah": {
+     "mcp": "18:34",
+     "hebcal_web": "18:34"
+    },
+    "parsha": {
+     "mcp": "Parshas Lech-Lecha",
+     "hebcal_web": "Parashat Lech-Lecha"
+    }
+   },
+   "zmanim": {
+    "alos_hashachar": {
+     "mcp": "05:35",
+     "hebcal_api": "05:35",
+     "local_noaa": "05:35:24"
+    },
+    "sunrise": {
+     "mcp": "06:48",
+     "hebcal_api": "06:48",
+     "local_noaa": "06:48:05"
+    },
+    "sof_zman_shema_mga": {
+     "mcp": "09:00",
+     "hebcal_api": "09:00",
+     "local_noaa": "08:59:39"
+    },
+    "sof_zman_shema_gra": {
+     "mcp": "09:36",
+     "hebcal_api": "09:36",
+     "local_noaa": "09:35:39"
+    },
+    "sof_zman_tefila_gra": {
+     "mcp": "10:32",
+     "hebcal_api": "10:32",
+     "local_noaa": "10:31:31"
+    },
+    "chatzos": {
+     "mcp": "12:23",
+     "hebcal_api": "12:23",
+     "local_noaa": "12:23:26"
+    },
+    "mincha_gedola": {
+     "mcp": "12:51",
+     "hebcal_api": "12:51",
+     "local_noaa": "12:51:09"
+    },
+    "plag_hamincha": {
+     "mcp": "16:49",
+     "hebcal_api": "16:49",
+     "local_noaa": "16:48:32"
+    },
+    "sunset": {
+     "mcp": "17:58",
+     "hebcal_api": "17:58",
+     "local_noaa": "17:58:21"
+    },
+    "tzeis_8_5_degrees": {
+     "mcp": "18:35",
+     "hebcal_api": "18:35",
+     "local_noaa": "18:35:03"
+    }
+   }
+  }
+ ],
+ "protocol_version": "2026-07-28",
+ "all_match": true
+}

@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "shabbos-zmanim": {
+      "type": "http",
+      "url": "http://127.0.0.1:8765/mcp"
+    },
+    "shabbos-zmanim-stdio": {
+      "command": ".venv/bin/python",
+      "args": [
+        "-m",
+        "zmanim_mcp.server",
+        "--stdio"
+      ],
+      "env": {
+        "PYTHONPATH": "src"
+      }
+    }
+  }
+}
